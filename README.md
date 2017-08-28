@@ -1,4 +1,4 @@
-# ARToolKit_approach
+# ARToolKit_solution
 
 This is the ARToolKit_Package for Zuokun's Intern at e-Content Store.
 
