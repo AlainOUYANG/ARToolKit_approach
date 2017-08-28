@@ -1,6 +1,6 @@
 # ARToolKit_solution
 
-This is the ARToolKit_Package for Zuokun's Intern at e-Content Store.
+This is the ARToolKit solution for Zuokun's Intern at e-Content Store.
 
 It contains the ARTKTest_Version.unitypackage, the ARToolKit_Final_Version.unitypackage, the WebGL_Helpe_Tool.unitypackage and the built webGL project CutAndCropPic.zip.
 
